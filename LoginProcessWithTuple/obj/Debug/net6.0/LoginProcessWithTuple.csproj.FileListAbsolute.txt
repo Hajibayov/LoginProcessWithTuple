@@ -1,0 +1,14 @@
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\bin\Debug\net6.0\LoginProcessWithTuple.exe
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\bin\Debug\net6.0\LoginProcessWithTuple.deps.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\bin\Debug\net6.0\LoginProcessWithTuple.runtimeconfig.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\bin\Debug\net6.0\LoginProcessWithTuple.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\bin\Debug\net6.0\LoginProcessWithTuple.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.AssemblyInfoInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.AssemblyInfo.cs
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.csproj.CoreCompileInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\refint\LoginProcessWithTuple.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\LoginProcessWithTuple.genruntimeconfig.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\LoginProcessWithTuple\LoginProcessWithTuple\obj\Debug\net6.0\ref\LoginProcessWithTuple.dll
